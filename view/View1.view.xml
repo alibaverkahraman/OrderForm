@@ -18,7 +18,7 @@
 											<l:content>
 												<FlexBox alignItems="Center" direction="Column" class="">
 													<items>
-														<Image src="img/tosyali-iron-steel.jpg"></Image>
+														<Image src="img/tosyali-iron-steel.jpg" width="100%"></Image>
 													</items>
 												</FlexBox>
 												<FlexBox height="100%" alignItems="Center" justifyContent="Center" alignContent="Center" direction="Column" class="mt-10">
@@ -141,13 +141,13 @@
 										<FlexBox direction="Column" class="mx-2 mt-3">
 											<items>
 												<Label text="BAŞLIK NOTU" />
-												<TextArea width="100%" editable="false" value='TESLİM YERİ FORMDA BELİRTİLEN FABRİKA ADRESİDİR. EKSİK BİLGİLERLE GÖNDERİLMİŞ TEKLİFLER DİKKATE ALINMAYACAKTIR. NAKLİYE "DAHİL" OLARAK VERİLEN TEKLİFLER ÖNCELİKLİ TERCİHİMİZDİR.' class="text" rows="1"></TextArea>
+												<TextArea width="100%" editable="false" value='TESLİM YERİ FORMDA BELİRTİLEN FABRİKA ADRESİDİR. EKSİK BİLGİLERLE GÖNDERİLMİŞ TEKLİFLER DİKKATE ALINMAYACAKTIR. NAKLİYE "DAHİL" OLARAK VERİLEN TEKLİFLER ÖNCELİKLİ TERCİHİMİZDİR.' class="text"></TextArea>
 											</items>
 										</FlexBox>
 										<FlexBox direction="Column" class="mx-2 mt-5">
 											<items>
 												<Label text="SATINALMA NOTU" />
-												<TextArea editable="false" width="100%" value='TERMİNİ GECİKEN MALZEMELER İÇİN SİPARİŞ TUTARININ %0,2/GÜN ORANINDA CEZA UYGULANACAKTIR.' class="text" rows="1"></TextArea>
+												<TextArea editable="false" width="100%" value='TERMİNİ GECİKEN MALZEMELER İÇİN SİPARİŞ TUTARININ %0,2/GÜN ORANINDA CEZA UYGULANACAKTIR.' class="text"></TextArea>
 											</items>
 										</FlexBox>
 									</content>
