@@ -202,14 +202,14 @@
 										</Table>
 									</content>
 								</Panel>
+								<Label></Label>
 							</content>
 						</Panel>
 					</items>
 				</FlexBox>
 			</content>
 			<footer>
-				<OverflowToolbar
-				>
+				<OverflowToolbar>
 					<content>
 						<ToolbarSpacer></ToolbarSpacer>
 						<Button text="Vazgeç" type="Negative"></Button>
